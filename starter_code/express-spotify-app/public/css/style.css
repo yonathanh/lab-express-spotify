@@ -1,0 +1,60 @@
+
+
+/* style.css */
+
+
+
+/*============== <Global> ==============*/
+
+
+
+/*============== <header> ==============*/
+
+.text-center {
+
+  height: 100vh;
+  background-image: url("/images/spotify-search-home.jpeg");
+  background-size: cover;
+}
+
+.search {
+  padding: 4vw;
+  background: rgb(236, 225, 225, 0.6);
+  position: absolute;
+  top: 50%;
+  bottom: 25%; 
+  left: 30%;
+}
+
+.input {
+  width: 25vw;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+
+h3 {
+  margin: 0;
+  color:white;
+}
+.view-albums {
+  /* width: 47vw; */
+  text-align: center;
+  background: rgb(73, 70, 70);
+  padding: 10px 0;
+}
+
+.box {
+  width: 47vw;
+}
+
+/*============== <section 1> ==============*/
+
+
+
+/*============== <section 2> ==============*/
+
+
+
+/*============== <footer> ==============*/
+
